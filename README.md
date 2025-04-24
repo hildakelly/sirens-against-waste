@@ -25,14 +25,6 @@ Sirens Against Waste provides a safe and welcoming space for women and LGBTQ+ in
 - `contact.html` – Email form
 
 
----
-
-##  Live Demo
-
-https://github.com/hildakelly/sirens-against-waste
-
----
-
 ## Designed By
 
 Hilda Kelly
